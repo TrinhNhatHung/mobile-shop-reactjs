@@ -1,0 +1,113 @@
+{
+  "products": [
+    {
+      "name": "Iphone 12 Pro",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51wcd%2Bz24TL._SX425_.jpg",
+      "description": "Sản phẩm do apple sản phẩm",
+      "price": "1000",
+      "inventory": 0,
+      "rating": 4,
+      "id": 1
+    },
+    {
+      "name": "2-Samsung galaxy Y1",
+      "image": "https://s7d2.scene7.com/is/image/SamsungUS/SMG930_gs7_102416?$product-details-jpg$",
+      "description": "Sản phẩm do samsung sản phẩm",
+      "price": 400,
+      "inventory": 11,
+      "rating": 3,
+      "id": 2
+    },
+    {
+      "name": "3-Oppo Neo",
+      "image": "http://drop.ndtv.com/TECH/product_database/images/832016120148PM_635_oppo_f1s.jpeg",
+      "description": "Sản phẩm do china sản phẩm",
+      "price": 450,
+      "inventory": 0,
+      "rating": 5,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "4-Iphone 12 Pro",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51wcd%2Bz24TL._SX425_.jpg",
+      "description": "Sản phẩm do apple sản phẩm",
+      "price": 500,
+      "inventory": 10,
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "name": "5-Samsung galaxy Y1",
+      "image": "https://s7d2.scene7.com/is/image/SamsungUS/SMG930_gs7_102416?$product-details-jpg$",
+      "description": "Sản phẩm do samsung sản phẩm",
+      "price": 400,
+      "inventory": 15,
+      "rating": 3
+    },
+    {
+      "id": 6,
+      "name": "6-Oppo Neo",
+      "image": "http://drop.ndtv.com/TECH/product_database/images/832016120148PM_635_oppo_f1s.jpeg",
+      "description": "Sản phẩm do china sản phẩm",
+      "price": 450,
+      "inventory": 5,
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "name": "7-Iphone 12 Pro",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51wcd%2Bz24TL._SX425_.jpg",
+      "description": "Sản phẩm do apple sản phẩm",
+      "price": 500,
+      "inventory": 10,
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "name": "8-Samsung galaxy Y1",
+      "image": "https://s7d2.scene7.com/is/image/SamsungUS/SMG930_gs7_102416?$product-details-jpg$",
+      "description": "Sản phẩm do samsung sản phẩm",
+      "price": 400,
+      "inventory": 15,
+      "rating": 3
+    },
+    {
+      "id": 9,
+      "name": "9-Oppo Neo",
+      "image": "http://drop.ndtv.com/TECH/product_database/images/832016120148PM_635_oppo_f1s.jpeg",
+      "description": "Sản phẩm do china sản phẩm",
+      "price": 450,
+      "inventory": 5,
+      "rating": 5
+    },
+    {
+      "name": "Iphone 12 Pro max",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51wcd%2Bz24TL._SX425_.jpg",
+      "description": "Sản phẩm do apple sản phẩm",
+      "price": "1000",
+      "inventory": 0,
+      "rating": "0",
+      "id": 10
+    },
+    {
+      "name": "Nokia",
+      "description": "Sản phẩm do nokia sản xuất",
+      "price": "1000",
+      "inventory": 1230,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51wcd%2Bz24TL._SX425_.jpg",
+      "rating": 0,
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "username": "hung",
+      "password": "123"
+    },
+    {
+      "username": "321",
+      "password": "321"
+    }
+  ]
+}

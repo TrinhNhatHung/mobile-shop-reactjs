@@ -1,0 +1,14 @@
+export const SET_PRODUCT = "SET_PRODUCT";
+export const ADD_PRODUCT_TO_CART = "ADD_PRODUCT_TO_CART";
+export const DELETE_PRODUCT_IN_CART = "DELETE_PRODUCT_IN_CART";
+export const UPDATE_PRODUCT_IN_CART = "UPDATE_PRODUCT_IN_CART";
+export const CHANGE_MESSAGE = "CHANGE_MESSAGE";
+export const COMPLETE_PURCHASE = "COMPLETE_PURCHASE";
+export const CHANGE_PAGE = "CHANGE_PAGE";
+export const SET_TOTAL_PRODUCTS = "SET_TOTAL_PRODUCTS";
+
+/*------------------------------------------------------*/
+
+export const SET_PRODUCT_ADMIN = "SET_PRODUCT_ADMIN";
+export const UPDATE_PRODUCT_ADMIN = "UPDATE_PRODUCT_ADMIN";
+export const DELETE_PRODUCT_ADMIN = "DELETE_PRODUCT_ADMIN";
